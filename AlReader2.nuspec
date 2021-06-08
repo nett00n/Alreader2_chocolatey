@@ -3,13 +3,13 @@
   <metadata>
     <id>Alreader2</id>
     <version>2.5</version>
-    <title>Alreader2</title>
+    <title>Alreader2 reader by Alan</title>
     <authors>Alan, NeverLand</authors>
     <owners>nett00n</owners>
     <projectUrl>http://www.alreader.com/?lang=en</projectUrl>
-    <iconUrl>https://cdn.statically.io/img/play-lh.googleusercontent.com/RsR63rfgCqtLHLmWOYE9bUuHy-FBPc2CzkNal4vbj0aKiFkhB1Ov_sV8dM372KPlaJQ=s180</iconUrl>
+    <iconUrl>https://play-lh.googleusercontent.com/RsR63rfgCqtLHLmWOYE9bUuHy-FBPc2CzkNal4vbj0aKiFkhB1Ov_sV8dM372KPlaJQ</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Alreader2 is a ebook reader</description>
+    <description>Alreader2 program is designed for reading fiction book. </description>
     <summary> Features :
       read formats: fb2, fbz, txt, epub, html, doc, docx, odt, rtf, mobi, prc (PalmDoc), tcr. Supported ZIP and GZ archives.
       Text-To-Speech support
